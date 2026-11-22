@@ -1,0 +1,16 @@
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets (API keys, passwords)
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
