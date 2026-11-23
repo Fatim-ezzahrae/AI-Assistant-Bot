@@ -14,3 +14,7 @@ __pycache__/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+big_stress_test.html
+generate_big_test.py
+test_company_doc.html
