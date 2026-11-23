@@ -15,6 +15,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-big_stress_test.html
+*.html
+*.pdf
 generate_big_test.py
-test_company_doc.html
